@@ -1,6 +1,6 @@
 # Nimbl3 Design Lab - July 2018
 
-**Book** a date - A photographer **shoots** your event - Get amazing **photos**
+**Book** a date - A photographer **shoots** your event - Download amazing **photos**
 
 This loader is a short summary of the flow a user goes through when booking a photographer on [vcliq](https://vcliq.com/).
 
