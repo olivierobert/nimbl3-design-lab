@@ -19,13 +19,13 @@
     { track: 'calendar', from: { x: 0 }, to: { x: -200 }, duration: 100, ease: easing.easeOut },
     [
       { track: 'camera', from: { x: 200 }, to: { x: 0 }, duration: 200 },
-      { track: 'dot', from: { x: 66, y: 95 }, to: { x: 87, y: 94 }, duration: 200, ease: easing.linear },
+      { track: 'dot', from: { x: 66, y: 95 }, to: { x: 87.5, y: 94 }, duration: 200, ease: easing.linear },
     ],
     { track: 'camera', from: { opacity: 1 }, to: { opacity: 1 }, duration: 500 },
     { track: 'camera', from: { x: 0 }, to: { x: -200 }, duration: 100, ease: easing.easeOut },
     [
       { track: 'image', from: { x: 200 }, to: { x: 0 }, duration: 200 },
-      { track: 'dot', from: { x: 87, y: 94 }, to: { x: 50, y: 55 }, duration: 200, ease: easing.linear },
+      { track: 'dot', from: { x: 87.5, y: 94 }, to: { x: 50, y: 55 }, duration: 200, ease: easing.linear },
     ],
     { track: 'image', from: { opacity: 1 }, to: { opacity: 1 }, duration: 500 },
     [
