@@ -1,6 +1,6 @@
 # Nimbl3 Design Lab - June 2018
 
-Customizable [Sranger Things](https://en.wikipedia.org/wiki/Stranger_Things) inspired 404 page. 
+Customizable [Stranger Things](https://en.wikipedia.org/wiki/Stranger_Things) inspired 404 page. 
 
 Make your users reached the The Upside Down of your web application 👻
 
