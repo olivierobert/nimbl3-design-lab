@@ -2,13 +2,13 @@
 
 ![demo](assets/images/animated-menu.gif)
 
-Blend of the following concepts:
+A blend of the following concepts:
 
 * Material design animation with the animated background color change (from dark blue to red) 
 * Often-seen animated hamburger menu from three bars to a cross. But here with a twist as the middle bar becomes the underline 
 for the active menu item. The idea is that the active menu item would always be the first menu item on each page.
 
-All animations made in CSS ❤️ with a sprinkle of Javascript for some event handling 💊 .
+All animations made in CSS ❤️ with a sprinkle of Javascript for some event handling 💊.
 
 ## Resources & Tools
 
